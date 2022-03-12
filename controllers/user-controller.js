@@ -71,6 +71,7 @@ const userController = {
       })
       .catch((err) => res.status(400).json(err));
   },
+  
   removeFriend(req, res) {
     User.findOneAndUpdate(
       { _id: req.params.userId },
