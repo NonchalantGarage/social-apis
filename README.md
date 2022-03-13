@@ -1,6 +1,6 @@
 # Social APIs
 
-Social APIs is an app that gives you the structural backend and routes to set up a social network app. It uses the Model View Controller design pattern that allows you to add users, user thoughts, which are similar to comments, and reactions to comments, which are similar to replies. These routes have been tested via Insomnia with proper validations built into the models using Mongoose.
+Social APIs is an app that gives you the structural backend and routes to set up a social network app. It uses the Model View Controller design pattern that allows you to add users, user thoughts, which are similar to comments, and reactions to thoughts, which are similar to replies. These routes have been tested via Insomnia with proper validators built into the schemas using Mongoose.
 
 ## User Story
 
@@ -12,10 +12,14 @@ SO THAT my website can handle large amounts of unstructured data
 
 ## Installation
 
-Pull the git hub repo and install node dependencies 
+Pull the github repo and install node dependencies 
 
 ```bash
 npm install 
+```
+To Start
+```bash
+node server.js
 ```
 
 ## Technologies
