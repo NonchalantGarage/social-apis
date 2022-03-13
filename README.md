@@ -27,7 +27,7 @@ Mongoose
 
     
 ## Video Walkthrough
-[Video](https://watch.screencastify.com/)
+[Video](https://drive.google.com/file/d/1ZoCfUfPL8Y9o-V0dgMuGF-Ww79g5dN-b/view)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
